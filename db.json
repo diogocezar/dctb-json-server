@@ -1,0 +1,12 @@
+{
+	"produtos" : [
+		{
+			"id": 1,
+			"name": "Pão Francês"
+		},
+		{
+			"id": 2,
+			"name": "Coca-cola"
+		}
+	]
+}

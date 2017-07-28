@@ -1,0 +1,23 @@
+{
+  "name": "dctb-json-server",
+  "version": "1.0.0",
+  "description": "Just a simple example of Json Server usage.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.11.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocezar/dctb-json-server.git"
+  },
+  "author": "Diogo Cezar <diogo@diogocezar.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogocezar/dctb-json-server/issues"
+  },
+  "homepage": "https://github.com/diogocezar/dctb-json-server#readme"
+}
