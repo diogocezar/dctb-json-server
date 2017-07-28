@@ -46,12 +46,12 @@ O --watch faz com que qualquer modificação no arquivo seja vista pelo servidor
 Agora, temos acesso ao servidor, indicado no terminal :D
 
 ```
- Resources
- http://localhost:3000/produtos
+Resources
+http://localhost:3000/produtos
 
- Home
- http://localhost:3000
- ```
+Home
+http://localhost:3000
+```
 
 Basta acessar o servidor no seu navegador e ter uma api pronta para ser utilizada.
 
@@ -62,3 +62,7 @@ Seu servidor REST está pronto para receber POST's, GET's ou DELETE's.
 Material baseado nas explicações vistas aqui:
 
 https://www.youtube.com/watch?v=VrPByfYy9PE
+
+Aplicativo insteressante para testar:
+
+https://www.getpostman.com/
